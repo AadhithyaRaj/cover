@@ -192,6 +192,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
+![image](https://github.com/AadhithyaRaj/cover/assets/128829484/f78f0d79-e593-4ad2-ab9a-f9da4c04f692)
 
 
 ## RESULT:
